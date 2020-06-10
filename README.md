@@ -1,4 +1,4 @@
-![Image of ACE]
+! [Image of ACE]
 (https://github.com/kibablu/associate-cloud-engineer/blob/master/ace.jpg)
 
 # associate-cloud-engineer
