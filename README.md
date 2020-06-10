@@ -3,7 +3,7 @@
 
 # Associate Cloud Engineer 
 
-Notes preparing for Google Cloud Associate Cloud Engineer certification;
+Resources preparing for Google Cloud Associate Cloud Engineer certification
 
 * [Official Exam Overview ](https://cloud.google.com/certification/cloud-engineer) *offered by Google*
 
