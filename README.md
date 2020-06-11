@@ -32,3 +32,8 @@ Resources preparing for Google Cloud Associate Cloud Engineer certification
   * [Learn GCP with Mahesh](https://www.youtube.com/channel/UCL8vwy2jhEtQrC-Rx6qzCZg/videos) *YouTube Channel*
   * [Cloud Advocate](https://www.youtube.com/channel/UCjfE5EmNU1kyf1wwrtYlnGQ) *YouTube Channel*
   * [AwesomeGCP](https://www.youtube.com/channel/UCIGDDqu5DzlaaC4XzXj_4-A) *YouTube Channel*
+  
+  
+  ## GitHub 
+  
+  * [awesome-gcp-certifications](https://github.com/ddneves/awesome-gcp-certifications#Google-Cloud---Associate-Cloud-Engineer)
