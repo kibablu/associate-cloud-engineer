@@ -17,13 +17,14 @@ Resources preparing for Google Cloud Associate Cloud Engineer certification
   * [Google Associate Cloud Engineer: Get Certified 2020](https://www.udemy.com/course/google-certified-associate-cloud-engineer-2019-prep-course/learn/lecture/16602228#overview) *offered on Udemy by Dan Sullivan*
   
   
-## Video / Sessions
+## Books / Documentation
 
   * [Get started with Google Cloud](https://cloud.google.com/docs) *Google Cloud Documentation*
   * [Official Google Cloud Certified Associate Cloud Engineer Study Guide](https://www.amazon.co.uk/gp/product/1119564417/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1) *Book by Dan Sullivan*
+  * [Google Cloud Platform in Action](https://www.amazon.com/Google-Cloud-Platform-Action-Geewax/dp/1617293520) *Book by JJ Geewax*
   
   
-  ## YouTube Resources 
+  ## Video / Sessions
   
   * [Google Cloud Platform](https://www.youtube.com/user/googlecloudplatform) *Official Google Cloud Platform YouTube channel*
   * [Linux Academy](https://www.youtube.com/user/pineheadtv/search?query=cloud) *Find videos on Google Cloud Platform*
