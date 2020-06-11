@@ -9,7 +9,7 @@ Resources preparing for Google Cloud Associate Cloud Engineer certification
 * [Links to the official Exam Study Guide](https://docs.google.com/document/d/1u6pXBiGMYj7ZLBN21x6jap11rG6gWk7n210hNnUzrkI/edit) *offered on Google Docs*
 
 
-## Courses 
+## Online Training 
 
   * [Preparing for the Google Cloud Associate Cloud Engineer Exam](https://www.coursera.org/learn/preparing-cloud-associate-cloud-engineer-exam#syllabus) *offered on Coursera*
   * [Google Cloud](https://www.coursera.org/googlecloud) *offered on Coursera*
@@ -17,7 +17,7 @@ Resources preparing for Google Cloud Associate Cloud Engineer certification
   * [Google Associate Cloud Engineer: Get Certified 2020](https://www.udemy.com/course/google-certified-associate-cloud-engineer-2019-prep-course/learn/lecture/16602228#overview) *offered on Udemy by Dan Sullivan*
   
   
-## Reading Resources
+## Video / Sessions
 
   * [Get started with Google Cloud](https://cloud.google.com/docs) *Google Cloud Documentation*
   * [Official Google Cloud Certified Associate Cloud Engineer Study Guide](https://www.amazon.co.uk/gp/product/1119564417/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1) *Book by Dan Sullivan*
