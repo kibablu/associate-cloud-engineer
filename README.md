@@ -36,8 +36,8 @@ Resources preparing for Google Cloud Associate Cloud Engineer certification
   
   ## GitHub 
   
-  * [awesome-gcp-certifications](https://github.com/ddneves/awesome-gcp-certifications#Google-Cloud---Associate-Cloud-Engineer) *by [ddneves](https://github.com/ddneves)*
-  * [gcp-learning](https://github.com/truar/gcp-learning) *by [truar](https://github.com/truar)*
-  * [GCP-CA-Notes](https://gist.github.com/dmunn/9874418f620b8aaf91d12507a91563ad) *by [dmunn](https://gist.github.com/dmunn)*
-  * [google-cloud-4-words](https://github.com/gregsramblings/google-cloud-4-words) *by [gregsramblings](https://github.com/gregsramblings)*
-  * [awesome-gcp-certifications](https://github.com/sathishvj/awesome-gcp-certifications/blob/master/associate-cloud-engineer.md) *by [sathishvj](https://github.com/sathishvj)*
+  * [awesome-gcp-certifications](https://github.com/ddneves/awesome-gcp-certifications#Google-Cloud---Associate-Cloud-Engineer) *Repo by [ddneves](https://github.com/ddneves)*
+  * [gcp-learning](https://github.com/truar/gcp-learning) *Repo by [truar](https://github.com/truar)*
+  * [GCP-CA-Notes](https://gist.github.com/dmunn/9874418f620b8aaf91d12507a91563ad) *Repo by [dmunn](https://gist.github.com/dmunn)*
+  * [google-cloud-4-words](https://github.com/gregsramblings/google-cloud-4-words) *Repo by [gregsramblings](https://github.com/gregsramblings)*
+  * [awesome-gcp-certifications](https://github.com/sathishvj/awesome-gcp-certifications/blob/master/associate-cloud-engineer.md) *Repo by [sathishvj](https://github.com/sathishvj)*
