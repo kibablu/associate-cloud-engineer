@@ -6,7 +6,7 @@
 Resources preparing for Google Cloud Associate Cloud Engineer certification
 
 * [Official Exam Overview ](https://cloud.google.com/certification/cloud-engineer) *offered by Google*
-* [Links to the official Exam Study Guide](https://docs.google.com/document/d/1u6pXBiGMYj7ZLBN21x6jap11rG6gWk7n210hNnUzrkI/edit) *offered on Google Docs*
+* [Link topics to the official Exam Study Guide](https://docs.google.com/document/d/1u6pXBiGMYj7ZLBN21x6jap11rG6gWk7n210hNnUzrkI/edit) *offered on Google Docs*
 
 
 ## Online Training 
