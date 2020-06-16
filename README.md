@@ -55,3 +55,16 @@ Resources preparing for Google Cloud Associate Cloud Engineer certification
 ](https://www.qwiklabs.com/quests/66?catalog_rank=%7B%22rank%22%3A1%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&search_id=5873277)
 * [Kubernetes in Google Cloud
 ](https://www.qwiklabs.com/quests/29?catalog_rank=%7B%22rank%22%3A1%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&search_id=5873318)
+
+
+##  Practice Exam / Test
+
+### THESE ARE NOT DUMPS!!! THEY ARE PRACTICE QUESTION. 
+
+### Successful completion of the practice exam does not guarantee you will pass the certification exam as the actual exam is longer and covers a wider range of topics.
+
+* [Associate Cloud Engineer Practice Exam](https://docs.google.com/forms/d/e/1FAIpQLSfexWKtXT2OSFJ-obA4iT3GmzgiOCGvjrT9OfxilWC1yPtmfQ/viewform)
+* [Google Certified Associate Cloud Engineer Practice Exam](https://www.udemy.com/course/google-certified-associate-cloud-engineer-practice-exam-d/) *offered on Udemy by Tuvshinzaya Mendbayar*
+* [Google Cloud Certified Associate Cloud Engineer](https://quizlet.com/328524759/google-cloud-certified-associate-cloud-engineer-flash-cards/) *offered on Quizlet by christopher_gang*
+* [GCP Cloud Associate Exam](https://quizlet.com/363585408/gcp-cloud-associate-exam-flash-cards/) *offered on Quizlet by casey_o_kane*
+* [Google Associate Cloud Engineer Exam](https://www.examtopics.com/exams/google/associate-cloud-engineer/)
