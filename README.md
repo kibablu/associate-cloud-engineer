@@ -41,6 +41,7 @@ Resources preparing for Google Cloud Associate Cloud Engineer certification
   * [GCP-CA-Notes](https://gist.github.com/dmunn/9874418f620b8aaf91d12507a91563ad) *Repo by [dmunn](https://gist.github.com/dmunn)*
   * [google-cloud-4-words](https://github.com/gregsramblings/google-cloud-4-words) *Repo by [gregsramblings](https://github.com/gregsramblings)*
   * [awesome-gcp-certifications](https://github.com/sathishvj/awesome-gcp-certifications/blob/master/associate-cloud-engineer.md) *Repo by [sathishvj](https://github.com/sathishvj)*
+  * [GCP Certification Series, 1.1](https://medium.com/@prashantapaudel/gcp-certification-series-1-1-15cf8117f610) *by Prashanta Paudel*
   * [GCP Associate Cloud Engineer Deep Dive notes. Preparing for the exam](https://myblockchainexperts.org/2019/09/27/gcp-associate-cloud-engineer-deep-dive-notes-preparing-for-the-exam/)
 
 
@@ -75,7 +76,7 @@ Resources preparing for Google Cloud Associate Cloud Engineer certification
 
 * [Passing GCP: Associate Cloud Engineer](https://medium.com/@serourb/passing-gcp-associate-cloud-engineer-9bf45ebef26b) *by Serourb*
 * [Writing and Passing the Google Cloud Associate Engineer Certification](https://medium.com/@sathishvj/writing-and-passing-the-google-cloud-associate-engineer-certification-a60c2f6d99c2) *by sathish vj*
-* [So I passed Google’s Associate Cloud Engineer Certification](https://medium.com/@IvanYudhi/so-i-passed-googles-associate-cloud-engineer-certification-813bdf30d273) *by Ivan Yudhi
+* [So I passed Google’s Associate Cloud Engineer Certification](https://medium.com/@IvanYudhi/so-i-passed-googles-associate-cloud-engineer-certification-813bdf30d273) *by Ivan Yudhi*
 * [How I Cleared 3 Google Cloud Certifications in 3 Weeks](https://medium.com/@yesdeepakverma/how-i-cleared-all-3-google-cloud-certifications-in-3-weeks-f5591aa22572) *by deepak verma*
 * [How did I Pass Google Cloud Certified Associate Cloud Engineer Exam?](https://www.whizlabs.com/blog/google-cloud-certified-associate-cloud-engineer-exam-review/)
 
