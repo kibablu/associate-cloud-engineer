@@ -34,13 +34,14 @@ Resources preparing for Google Cloud Associate Cloud Engineer certification
   * [AwesomeGCP](https://www.youtube.com/channel/UCIGDDqu5DzlaaC4XzXj_4-A) *YouTube Channel*
   
   
-  ## GitHub 
+  ## Notes
   
   * [awesome-gcp-certifications](https://github.com/ddneves/awesome-gcp-certifications#Google-Cloud---Associate-Cloud-Engineer) *Repo by [ddneves](https://github.com/ddneves)*
   * [gcp-learning](https://github.com/truar/gcp-learning) *Repo by [truar](https://github.com/truar)*
   * [GCP-CA-Notes](https://gist.github.com/dmunn/9874418f620b8aaf91d12507a91563ad) *Repo by [dmunn](https://gist.github.com/dmunn)*
   * [google-cloud-4-words](https://github.com/gregsramblings/google-cloud-4-words) *Repo by [gregsramblings](https://github.com/gregsramblings)*
   * [awesome-gcp-certifications](https://github.com/sathishvj/awesome-gcp-certifications/blob/master/associate-cloud-engineer.md) *Repo by [sathishvj](https://github.com/sathishvj)*
+  * [GCP Associate Cloud Engineer Deep Dive notes. Preparing for the exam](https://myblockchainexperts.org/2019/09/27/gcp-associate-cloud-engineer-deep-dive-notes-preparing-for-the-exam/)
 
 
  ## Qwiklabs / Hands on Training 
