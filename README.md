@@ -68,3 +68,9 @@ Resources preparing for Google Cloud Associate Cloud Engineer certification
 * [Google Cloud Certified Associate Cloud Engineer](https://quizlet.com/328524759/google-cloud-certified-associate-cloud-engineer-flash-cards/) *offered on Quizlet by christopher_gang*
 * [GCP Cloud Associate Exam](https://quizlet.com/363585408/gcp-cloud-associate-exam-flash-cards/) *offered on Quizlet by casey_o_kane*
 * [Google Associate Cloud Engineer Exam](https://www.examtopics.com/exams/google/associate-cloud-engineer/)
+
+
+## Success stories
+
+* [Passing GCP: Associate Cloud Engineer](https://medium.com/@serourb/passing-gcp-associate-cloud-engineer-9bf45ebef26b) *by Serourb*
+* [Writing and Passing the Google Cloud Associate Engineer Certification](https://medium.com/@sathishvj/writing-and-passing-the-google-cloud-associate-engineer-certification-a60c2f6d99c2) *by sathish vj*
