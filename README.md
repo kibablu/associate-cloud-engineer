@@ -84,6 +84,8 @@ Resources preparing for Google Cloud Associate Cloud Engineer certification
 
 ## Beginner Concepts 
 
+### What is Cloud Computing?
+
 * [Intro to Cloud Computing](https://www.udacity.com/course/intro-to-cloud-computing--ud080) *offered on Udacity*
 * [Cloud Computing - CS50's Computer Science for Business Professionals 2017](https://www.youtube.com/watch?v=ngK97cSXWoM) *offered on YouTube*
 * [Introduction to Cloud Computing](https://www.youtube.com/watch?v=QYzJl0Zrc4M) *offered on YouTube*
