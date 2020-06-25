@@ -92,3 +92,8 @@ Resources preparing for Google Cloud Associate Cloud Engineer certification
 * [Cloud computing: A complete guide](https://www.ibm.com/cloud/learn/cloud-computing) *IBM Cloud*
 * [An Introduction of Cloud Computing for Beginners](https://geekflare.com/cloud-computing-basics/)
 * [Pizza as a Service 2.0](https://medium.com/@pkerrison/pizza-as-a-service-2-0-5085cd4c365e) *by Paul Kerrison*
+
+
+### Terminologies 
+* [What is a Server? Servers vs Desktops Explained](https://www.youtube.com/watch?v=UjCDWCeHCzY) *offered on YouTube*
+* [Virtualization and Hypervisors](https://medium.com/@devanshagarwal121/virtualization-and-hypervisors-9c4c8f4ab27d) *by Devansh Agarwal*
