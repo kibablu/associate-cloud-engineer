@@ -97,3 +97,4 @@ Resources preparing for Google Cloud Associate Cloud Engineer certification
 ### Terminologies 
 * [What is a Server? Servers vs Desktops Explained](https://www.youtube.com/watch?v=UjCDWCeHCzY) *offered on YouTube*
 * [Virtualization and Hypervisors](https://medium.com/@devanshagarwal121/virtualization-and-hypervisors-9c4c8f4ab27d) *by Devansh Agarwal*
+* [Virtualization Explained](https://www.youtube.com/watch?v=FZR0rG3HKIk) *offered on YouTube*
