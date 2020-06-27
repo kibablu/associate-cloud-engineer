@@ -89,6 +89,7 @@ Resources preparing for Google Cloud Associate Cloud Engineer certification
 * [Intro to Cloud Computing](https://www.udacity.com/course/intro-to-cloud-computing--ud080) *offered on Udacity*
 * [Cloud Computing - CS50's Computer Science for Business Professionals 2017](https://www.youtube.com/watch?v=ngK97cSXWoM) *offered on YouTube*
 * [Introduction to Cloud Computing](https://www.youtube.com/watch?v=QYzJl0Zrc4M) *offered on YouTube*
+* [Cloud Fundamentals](https://www.youtube.com/playlist?list=PLOspHqNVtKAC-_ZAGresP-i0okHe5FjcJ) *Offered by IBM YouTube Channel*
 * [Cloud computing: A complete guide](https://www.ibm.com/cloud/learn/cloud-computing) *IBM Cloud*
 * [An Introduction of Cloud Computing for Beginners](https://geekflare.com/cloud-computing-basics/)
 * [Pizza as a Service 2.0](https://medium.com/@pkerrison/pizza-as-a-service-2-0-5085cd4c365e) *by Paul Kerrison*
@@ -98,3 +99,4 @@ Resources preparing for Google Cloud Associate Cloud Engineer certification
 * [What is a Server? Servers vs Desktops Explained](https://www.youtube.com/watch?v=UjCDWCeHCzY) *offered on YouTube*
 * [Virtualization and Hypervisors](https://medium.com/@devanshagarwal121/virtualization-and-hypervisors-9c4c8f4ab27d) *by Devansh Agarwal*
 * [Virtualization Explained](https://www.youtube.com/watch?v=FZR0rG3HKIk) *offered on YouTube*
+* [What is a Virtual Private Cloud?](https://www.youtube.com/watch?v=NbkPRn1mqlU) *Offered by IBM YouTube Channel*
