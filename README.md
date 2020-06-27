@@ -92,6 +92,7 @@ Resources preparing for Google Cloud Associate Cloud Engineer certification
 * [Cloud Fundamentals](https://www.youtube.com/playlist?list=PLOspHqNVtKAC-_ZAGresP-i0okHe5FjcJ) *Offered by IBM YouTube Channel*
 * [Cloud computing: A complete guide](https://www.ibm.com/cloud/learn/cloud-computing) *IBM Cloud*
 * [An Introduction of Cloud Computing for Beginners](https://geekflare.com/cloud-computing-basics/)
+* [Public Cloud vs Private Cloud vs Hybrid Cloud](https://www.youtube.com/watch?v=3WIJ4axzFlU) *Offered on YouTube*
 * [Pizza as a Service 2.0](https://medium.com/@pkerrison/pizza-as-a-service-2-0-5085cd4c365e) *by Paul Kerrison*
 
 
