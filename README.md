@@ -48,6 +48,15 @@ Resources preparing for Google Cloud Associate Cloud Engineer certification
 * [ACE Study Topics & Models](https://docs.google.com/document/d/1if7Bbzrui1r-RaPO8ikwvcyg7Cv9sIFFZuE_fZP-9xE/edit#heading=h.n2bowj9d4vqj) *offered on Google Docs by Blake Rogers*
 
 
+## GCP Cheatsheet
+
+* [GCP cheatsheet
+](https://cheatsheet.dennyzhang.com/cheatsheet-gcp-a4) *by [dennyzhang](https://github.com/dennyzhang)*
+* [GCP cheatsheet
+](https://gist.github.com/pydevops/cffbd3c694d599c6ca18342d3625af97#012-app-engine) *by [pydevops](https://gist.github.com/pydevops)*
+* [GCP command-line cheatsheet](https://itnext.io/gcp-command-line-cheatsheet-5e4434ca2c84#d8b9) *by [Daniel Weibel](https://itnext.io/@weibeld)*
+* [gcloud sdk](https://cloud.google.com/sdk/gcloud/reference) *official docs*
+
  ## Qwiklabs / Hands on Training 
  
  
