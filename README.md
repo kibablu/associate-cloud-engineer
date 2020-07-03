@@ -6,13 +6,12 @@
 Resources preparing for Google Cloud Associate Cloud Engineer certification
 
 * [Official Exam Overview ](https://cloud.google.com/certification/cloud-engineer) *offered by Google*
-* [Let's talk with Dan Sullivan - author of the official Google Cloud Study Guides](https://www.youtube.com/watch?v=QOJGZqZdRS8) *Mauritius Software Craftsmanship Community YouTube Channel*
-
+* [Let's talk with Dan Sullivan - author of the official Google Cloud Study Guides](https://www.youtube.com/watch?v=QOJGZqZdRS8) *offered on YouTube*
 
 ## Online Training 
 
   * [Preparing for the Google Cloud Associate Cloud Engineer Exam](https://www.coursera.org/learn/preparing-cloud-associate-cloud-engineer-exam#syllabus) *offered on Coursera*
-  * [Intro to Google Cloud | For Student Developers](https://www.youtube.com/watch?v=5RGyepqiEGw) *Google Cloud Platform YouTube channel*
+  * [Intro to Google Cloud | For Student Developers](https://www.youtube.com/watch?v=5RGyepqiEGw) *offered on YouTube*
   * [Introduction to Google Cloud Platform](https://acloud.guru/learn/gcp-101) *offered on A Cloud Guru*
   * [Google Cloud](https://www.coursera.org/googlecloud) *offered on Coursera*
   * [Google Cloud](https://www.pluralsight.com/authors/google-cloud?aid=7010a000002LUv2AAG&promo=&utm_source=non_branded&utm_medium=digital_paid_search_google&utm_campaign=XYZ_EMEA_Dynamic&utm_content=&gclid=EAIaIQobChMIqZz5kuj26QIVDflRCh0ijQeuEAAYASAAEgJB2_D_BwE) *offered on Pluralsight*
@@ -28,13 +27,13 @@ Resources preparing for Google Cloud Associate Cloud Engineer certification
   
   ## Video / Sessions
   
-  * [Google Cloud Platform](https://www.youtube.com/user/googlecloudplatform) *Official Google Cloud Platform YouTube channel*
+  * [Google Cloud Platform](https://www.youtube.com/user/googlecloudplatform) *offered on YouTube*
   * [Cloudonair](https://cloudonair.withgoogle.com/) *Training from Googlers*
-  * [Linux Academy](https://www.youtube.com/user/pineheadtv/search?query=cloud) *Find videos on Google Cloud Platform*
+  * [Linux Academy](https://www.youtube.com/user/pineheadtv/search?query=cloud) *offered on YouTube*
   * [Learn GCP with Mahesh](https://www.youtube.com/channel/UCL8vwy2jhEtQrC-Rx6qzCZg/videos) *YouTube Channel*
-  * [Cloud Advocate](https://www.youtube.com/channel/UCjfE5EmNU1kyf1wwrtYlnGQ) *YouTube Channel*
-  * [AwesomeGCP](https://www.youtube.com/channel/UCIGDDqu5DzlaaC4XzXj_4-A) *YouTube Channel*
-  * [GCP for Dummies](https://www.youtube.com/channel/UCLqm0JFu9oqh_PccDg3mU0g) *YouTube Channel*
+  * [Cloud Advocate](https://www.youtube.com/channel/UCjfE5EmNU1kyf1wwrtYlnGQ) *offered on YouTube*
+  * [AwesomeGCP](https://www.youtube.com/channel/UCIGDDqu5DzlaaC4XzXj_4-A) *ffered on YouTube*
+  * [GCP for Dummies](https://www.youtube.com/channel/UCLqm0JFu9oqh_PccDg3mU0g) *offered on YouTube*
   
   
   ## Notes
@@ -47,7 +46,7 @@ Resources preparing for Google Cloud Associate Cloud Engineer certification
   * [GCP Certification Series, 1.1](https://medium.com/@prashantapaudel/gcp-certification-series-1-1-15cf8117f610) *by Prashanta Paudel*
   * [GCP Associate Cloud Engineer Deep Dive notes. Preparing for the exam](https://myblockchainexperts.org/2019/09/27/gcp-associate-cloud-engineer-deep-dive-notes-preparing-for-the-exam/)
 * [Link topics to the official Exam Study Guide](https://docs.google.com/document/d/1u6pXBiGMYj7ZLBN21x6jap11rG6gWk7n210hNnUzrkI/edit) *offered on Google Docs*
-* [ACE Study Topics & Models](https://docs.google.com/document/d/1if7Bbzrui1r-RaPO8ikwvcyg7Cv9sIFFZuE_fZP-9xE/edit#heading=h.n2bowj9d4vqj) *offered on Google Docs by Blake Rogers*
+* [ACE Study Topics & Models](https://docs.google.com/document/d/1if7Bbzrui1r-RaPO8ikwvcyg7Cv9sIFFZuE_fZP-9xE/edit#heading=h.n2bowj9d4vqj) *offered on Google Docs*
 
 
 ## GCP Cheatsheet
@@ -82,9 +81,9 @@ Resources preparing for Google Cloud Associate Cloud Engineer certification
 ### Successful completion of the practice exam does not guarantee you will pass the certification exam as the actual exam is longer and covers a wider range of topics.
 
 * [Associate Cloud Engineer Practice Exam](https://docs.google.com/forms/d/e/1FAIpQLSfexWKtXT2OSFJ-obA4iT3GmzgiOCGvjrT9OfxilWC1yPtmfQ/viewform)
-* [Google Certified Associate Cloud Engineer Practice Exam](https://www.udemy.com/course/google-certified-associate-cloud-engineer-practice-exam-d/) *offered on Udemy by Tuvshinzaya Mendbayar*
-* [Google Cloud Certified Associate Cloud Engineer](https://quizlet.com/328524759/google-cloud-certified-associate-cloud-engineer-flash-cards/) *offered on Quizlet by christopher_gang*
-* [GCP Cloud Associate Exam](https://quizlet.com/363585408/gcp-cloud-associate-exam-flash-cards/) *offered on Quizlet by casey_o_kane*
+* [Google Certified Associate Cloud Engineer Practice Exam](https://www.udemy.com/course/google-certified-associate-cloud-engineer-practice-exam-d/) *offered on Udemy*
+* [Google Cloud Certified Associate Cloud Engineer](https://quizlet.com/328524759/google-cloud-certified-associate-cloud-engineer-flash-cards/) *offered on Quizlet*
+* [GCP Cloud Associate Exam](https://quizlet.com/363585408/gcp-cloud-associate-exam-flash-cards/) *offered on Quizlet*
 * [Google Associate Cloud Engineer Exam](https://www.examtopics.com/exams/google/associate-cloud-engineer/)
 
 
@@ -105,7 +104,7 @@ Resources preparing for Google Cloud Associate Cloud Engineer certification
 * [Intro to Cloud Computing](https://www.udacity.com/course/intro-to-cloud-computing--ud080) *offered on Udacity*
 * [Cloud Computing - CS50's Computer Science for Business Professionals 2017](https://www.youtube.com/watch?v=ngK97cSXWoM) *offered on YouTube*
 * [Introduction to Cloud Computing](https://www.youtube.com/watch?v=QYzJl0Zrc4M) *offered on YouTube*
-* [Cloud Fundamentals](https://www.youtube.com/playlist?list=PLOspHqNVtKAC-_ZAGresP-i0okHe5FjcJ) *offered by IBM YouTube Channel*
+* [Cloud Fundamentals](https://www.youtube.com/playlist?list=PLOspHqNVtKAC-_ZAGresP-i0okHe5FjcJ) *offered on YouTube*
 * [Cloud computing: A complete guide](https://www.ibm.com/cloud/learn/cloud-computing) *IBM Cloud*
 * [An Introduction of Cloud Computing for Beginners](https://geekflare.com/cloud-computing-basics/)
 * [Public Cloud vs Private Cloud vs Hybrid Cloud](https://www.youtube.com/watch?v=3WIJ4axzFlU) *offered on YouTube*
@@ -116,4 +115,9 @@ Resources preparing for Google Cloud Associate Cloud Engineer certification
 * [What is a Server? Servers vs Desktops Explained](https://www.youtube.com/watch?v=UjCDWCeHCzY) *offered on YouTube*
 * [Virtualization and Hypervisors](https://medium.com/@devanshagarwal121/virtualization-and-hypervisors-9c4c8f4ab27d) *by Devansh Agarwal*
 * [Virtualization Explained](https://www.youtube.com/watch?v=FZR0rG3HKIk) *offered on YouTube*
-* [What is a Virtual Private Cloud?](https://www.youtube.com/watch?v=NbkPRn1mqlU) *offered by IBM YouTube Channel*
+* [What is a Virtual Private Cloud?](https://www.youtube.com/watch?v=NbkPRn1mqlU) *offered on YouTube*
+* [Containerization Explained](https://www.youtube.com/watch?v=0qotVMX-J5s) *offered on YouTube*
+* [Virtual Machines vs Docker Containers - Dive Into Docker](https://www.youtube.com/watch?v=TvnZTi_gaNc) *offered on YouTube*
+* [Introduction To Docker and Docker Containers](https://www.youtube.com/watch?v=JSLpG_spOBM) *offered on YouTube*
+* [Hello Whale: Containers != Virtual Machines](https://codefresh.io/docker-tutorial/hello-whale-containers-virtual-machines/)
+* [What is Docker?](https://opensource.com/resources/what-docker)
