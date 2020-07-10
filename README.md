@@ -51,6 +51,7 @@ Resources preparing for Google Cloud Associate Cloud Engineer certification
 
 ## GCP Cheatsheet
 
+* [GCP cheatsheet](https://cloud.google.com/blog/products/management-tools/new-gcloud-cheat-sheet-available) *offered by Google*
 * [GCP cheatsheet
 ](https://cheatsheet.dennyzhang.com/cheatsheet-gcp-a4) *by [dennyzhang](https://github.com/dennyzhang)*
 * [GCP cheatsheet
