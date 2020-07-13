@@ -108,6 +108,7 @@ Resources preparing for Google Cloud Associate Cloud Engineer certification
 * [Introduction to Cloud Computing](https://www.youtube.com/watch?v=QYzJl0Zrc4M) *offered on YouTube*
 * [Cloud Fundamentals](https://www.youtube.com/playlist?list=PLOspHqNVtKAC-_ZAGresP-i0okHe5FjcJ) *offered on YouTube*
 * [Cloud computing: A complete guide](https://www.ibm.com/cloud/learn/cloud-computing) *IBM Cloud*
+* [A beginner’s guide to the basics of what cloud computing is about](https://medium.com/scientya/a-beginners-guide-to-the-basics-of-what-cloud-computing-is-about-e8b3b7f25a30)   *by Yahya Mohamed Mao*
 * [An Introduction of Cloud Computing for Beginners](https://geekflare.com/cloud-computing-basics/)
 * [Public Cloud vs Private Cloud vs Hybrid Cloud](https://www.youtube.com/watch?v=3WIJ4axzFlU) *offered on YouTube*
 * [Pizza as a Service 2.0](https://medium.com/@pkerrison/pizza-as-a-service-2-0-5085cd4c365e) *by Paul Kerrison*
