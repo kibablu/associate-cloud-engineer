@@ -97,6 +97,7 @@ Resources preparing for Google Cloud Associate Cloud Engineer certification
 * [How I Cleared 3 Google Cloud Certifications in 3 Weeks](https://medium.com/@yesdeepakverma/how-i-cleared-all-3-google-cloud-certifications-in-3-weeks-f5591aa22572) *by deepak verma*
 * [How I was able to clear my Google Cloud Engineer exam](https://medium.com/@narayansharma91/how-i-was-able-to-clear-my-google-cloud-engineer-exam-c8553835fbb0) *by Narayan Sharma*
 * [How did I Pass Google Cloud Certified Associate Cloud Engineer Exam?](https://www.whizlabs.com/blog/google-cloud-certified-associate-cloud-engineer-exam-review/)
+* [From ALC to Google Certified Associate Cloud Engineer (ACE)](https://medium.com/@MercyMarkus/from-alc-to-google-certified-associate-cloud-engineer-b7e5707f9bf0) *by Mercy Markus*
 
 
 ## Beginner Concepts 
