@@ -30,9 +30,9 @@ Resources preparing for Google Cloud Associate Cloud Engineer certification
   * [Google Cloud Platform](https://www.youtube.com/user/googlecloudplatform) *offered on YouTube*
   * [Cloudonair](https://cloudonair.withgoogle.com/) *Training from Googlers*
   * [Linux Academy](https://www.youtube.com/user/pineheadtv/search?query=cloud) *offered on YouTube*
-  * [Learn GCP with Mahesh](https://www.youtube.com/channel/UCL8vwy2jhEtQrC-Rx6qzCZg/videos) *YouTube Channel*
+  * [Learn GCP with Mahesh](https://www.youtube.com/channel/UCL8vwy2jhEtQrC-Rx6qzCZg/videos) *offered on YouTube*
   * [Cloud Advocate](https://www.youtube.com/channel/UCjfE5EmNU1kyf1wwrtYlnGQ) *offered on YouTube*
-  * [AwesomeGCP](https://www.youtube.com/channel/UCIGDDqu5DzlaaC4XzXj_4-A) *ffered on YouTube*
+  * [AwesomeGCP](https://www.youtube.com/channel/UCIGDDqu5DzlaaC4XzXj_4-A) *offered on YouTube*
   * [GCP for Dummies](https://www.youtube.com/channel/UCLqm0JFu9oqh_PccDg3mU0g) *offered on YouTube*
   
   
@@ -92,6 +92,8 @@ Resources preparing for Google Cloud Associate Cloud Engineer certification
 
 ## Success stories
 
+
+* [Preparing for Google Cloud Associate Cloud Engineer Exam](https://www.youtube.com/watch?v=RbIbS0YMFs4) *offered on YouTube*
 * [Passing GCP: Associate Cloud Engineer](https://medium.com/@serourb/passing-gcp-associate-cloud-engineer-9bf45ebef26b) *by Serourb*
 * [Writing and Passing the Google Cloud Associate Engineer Certification](https://medium.com/@sathishvj/writing-and-passing-the-google-cloud-associate-engineer-certification-a60c2f6d99c2) *by sathish vj*
 * [So I passed Google’s Associate Cloud Engineer Certification](https://medium.com/@IvanYudhi/so-i-passed-googles-associate-cloud-engineer-certification-813bdf30d273) *by Ivan Yudhi*
