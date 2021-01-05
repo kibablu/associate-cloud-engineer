@@ -30,6 +30,7 @@ Resources preparing for Google Cloud Associate Cloud Engineer certification
   
   * [Google Cloud Platform](https://www.youtube.com/user/googlecloudplatform) *offered on YouTube*
   * [Cloudonair](https://cloudonair.withgoogle.com/) *Training from Googlers*
+  * [The Cloud Girl](https://www.youtube.com/c/priyankavergadia/videos) *offered on YouTube*
   * [Linux Academy](https://www.youtube.com/user/pineheadtv/search?query=cloud) *offered on YouTube*
   * [Learn GCP with Mahesh](https://www.youtube.com/channel/UCL8vwy2jhEtQrC-Rx6qzCZg/videos) *offered on YouTube*
   * [Cloud Advocate](https://www.youtube.com/channel/UCjfE5EmNU1kyf1wwrtYlnGQ) *offered on YouTube*
