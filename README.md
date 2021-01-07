@@ -41,6 +41,8 @@ Resources preparing for Google Cloud Associate Cloud Engineer certification
   ## Notes
   
   * [awesome-gcp-certifications](https://github.com/ddneves/awesome-gcp-certifications#Google-Cloud---Associate-Cloud-Engineer) *Repo by [ddneves](https://github.com/ddneves)*
+  * [GCPSketchnote](https://github.com/priyankavergadia/GCPSketchnote?_lrsc=cabfae46-9c53-4921-86a2-0d2624c0cb78) *Repo by [
+pvergadia](https://github.com/priyankavergadia)*
   * [gcp-learning](https://github.com/truar/gcp-learning) *Repo by [truar](https://github.com/truar)*
   * [GCP-CA-Notes](https://gist.github.com/dmunn/9874418f620b8aaf91d12507a91563ad) *Repo by [dmunn](https://gist.github.com/dmunn)*
   * [google-cloud-4-words](https://github.com/gregsramblings/google-cloud-4-words) *Repo by [gregsramblings](https://github.com/gregsramblings)*
