@@ -131,3 +131,4 @@ pvergadia](https://github.com/priyankavergadia)*
 * [Introduction To Docker and Docker Containers](https://www.youtube.com/watch?v=JSLpG_spOBM) *offered on YouTube*
 * [Hello Whale: Containers != Virtual Machines](https://codefresh.io/docker-tutorial/hello-whale-containers-virtual-machines/)
 * [What is Docker?](https://opensource.com/resources/what-docker)
+* [Kubernetes 101: Pods, Nodes, Containers, and Clusters](https://medium.com/google-cloud/kubernetes-101-pods-nodes-containers-and-clusters-c1509e409e16)
