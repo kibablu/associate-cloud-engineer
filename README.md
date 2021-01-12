@@ -78,6 +78,7 @@ pvergadia](https://github.com/priyankavergadia)*
 * [Kubernetes in Google Cloud
 ](https://www.qwiklabs.com/quests/29?catalog_rank=%7B%22rank%22%3A1%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&search_id=5873318)
 * [Security & Identity Fundamentals](https://www.qwiklabs.com/quests/40)
+* [App Dev - Deploying the Application into App Engine Flexible Environment - Java](https://google.qwiklabs.com/focuses/1060?catalog_rank=%7B%22rank%22%3A1%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=476247)
 * [Hello Cloud Run](https://www.qwiklabs.com/focuses/5162?catalog_rank=%7B%22rank%22%3A1%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=6078620)
 
 
