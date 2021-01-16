@@ -97,7 +97,6 @@ pvergadia](https://github.com/priyankavergadia)*
 * [Google Certified Associate Cloud Engineer Practice Exam](https://www.udemy.com/course/google-certified-associate-cloud-engineer-practice-exam-d/) *offered on Udemy*
 * [Google Cloud Certified Associate Cloud Engineer](https://quizlet.com/328524759/google-cloud-certified-associate-cloud-engineer-flash-cards/) *offered on Quizlet*
 * [GCP Cloud Associate Exam](https://quizlet.com/363585408/gcp-cloud-associate-exam-flash-cards/) *offered on Quizlet*
-* [Google Associate Cloud Engineer Exam](https://www.examtopics.com/exams/google/associate-cloud-engineer/)
 * [Google Cloud Associate Cloud Engineer Q/A](https://www.youtube.com/playlist?list=PLQMsfKRZZviRwqJwNmh1eAWnRMvlrk40x) *offered on YouTube*
 
 
