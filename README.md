@@ -94,6 +94,7 @@ pvergadia](https://github.com/priyankavergadia)*
 ### Successful completion of the practice exam does not guarantee you will pass the certification exam as the actual exam is longer and covers a wider range of topics.
 
 * [Associate Cloud Engineer Practice Exam](https://docs.google.com/forms/d/e/1FAIpQLSfexWKtXT2OSFJ-obA4iT3GmzgiOCGvjrT9OfxilWC1yPtmfQ/viewform)
+* [Google Cloud Associate Cloud Engineer Practice Exams](https://www.udemy.com/course/google-cloud-associate-cloud-engineer-practice-examspractice-exams/) *offered on Udemy*
 * [Google Certified Associate Cloud Engineer Practice Exam](https://www.udemy.com/course/google-certified-associate-cloud-engineer-practice-exam-d/) *offered on Udemy*
 * [Google Cloud Certified Associate Cloud Engineer](https://quizlet.com/328524759/google-cloud-certified-associate-cloud-engineer-flash-cards/) *offered on Quizlet*
 * [GCP Cloud Associate Exam](https://quizlet.com/363585408/gcp-cloud-associate-exam-flash-cards/) *offered on Quizlet*
