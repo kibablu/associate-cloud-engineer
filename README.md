@@ -105,6 +105,7 @@ pvergadia](https://github.com/priyankavergadia)*
 ## Success stories
 
 * [Passing GCP: Associate Cloud Engineer](https://medium.com/@serourb/passing-gcp-associate-cloud-engineer-9bf45ebef26b) *by Serourb*
+* [How I passed GCP Associate Cloud Engineer certification](https://medium.com/@kannan_ak/how-i-passed-gcp-associate-cloud-engineer-certification-86b11b333183) *by Kannan Anandakrishnan*
 * [Writing and Passing the Google Cloud Associate Engineer Certification](https://medium.com/@sathishvj/writing-and-passing-the-google-cloud-associate-engineer-certification-a60c2f6d99c2) *by sathish vj*
 * [So I passed Google’s Associate Cloud Engineer Certification](https://medium.com/@IvanYudhi/so-i-passed-googles-associate-cloud-engineer-certification-813bdf30d273) *by Ivan Yudhi*
 * [How I Cleared 3 Google Cloud Certifications in 3 Weeks](https://medium.com/@yesdeepakverma/how-i-cleared-all-3-google-cloud-certifications-in-3-weeks-f5591aa22572) *by deepak verma*
