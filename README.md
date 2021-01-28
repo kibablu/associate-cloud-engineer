@@ -105,6 +105,7 @@ pvergadia](https://github.com/priyankavergadia)*
 
 ## Success stories
 
+* [Yes, you can pass the Google Cloud Associate Engineer exam](https://medium.com/google-developer-experts/yes-you-can-pass-the-google-cloud-associate-engineer-exam-e4468a7bcf7d) *by Gerardo Lopez Falcón*
 * [Passing GCP: Associate Cloud Engineer](https://medium.com/@serourb/passing-gcp-associate-cloud-engineer-9bf45ebef26b) *by Serourb*
 * [How I passed GCP Associate Cloud Engineer certification](https://medium.com/@kannan_ak/how-i-passed-gcp-associate-cloud-engineer-certification-86b11b333183) *by Kannan Anandakrishnan*
 * [Writing and Passing the Google Cloud Associate Engineer Certification](https://medium.com/@sathishvj/writing-and-passing-the-google-cloud-associate-engineer-certification-a60c2f6d99c2) *by sathish vj*
