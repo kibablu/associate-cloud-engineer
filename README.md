@@ -18,7 +18,7 @@ Resources preparing for Google Cloud Associate Cloud Engineer certification
   * [Introduction to Google Cloud Platform](https://acloud.guru/learn/gcp-101) *offered on A Cloud Guru*
   * [Google Certified Associate Cloud Engineer 2020](https://acloudguru.com/course/google-certified-associate-cloud-engineer) *offered on A Cloud Guru*
   * [Google Cloud](https://www.coursera.org/googlecloud) *offered on Coursera*
-  * [Google Cloud](https://www.pluralsight.com/authors/google-cloud?aid=7010a000002LUv2AAG&promo=&utm_source=non_branded&utm_medium=digital_paid_search_google&utm_campaign=XYZ_EMEA_Dynamic&utm_content=&gclid=EAIaIQobChMIqZz5kuj26QIVDflRCh0ijQeuEAAYASAAEgJB2_D_BwE) *offered on Pluralsight*
+  * [Google Cloud Certified Associate Cloud Engineer](https://www.pluralsight.com/paths/cloud-engineering-with-google-cloud) *offered on Pluralsight*
   * [Google Associate Cloud Engineer: Get Certified 2020](https://www.udemy.com/course/google-certified-associate-cloud-engineer-2019-prep-course/learn/lecture/16602228#overview) *offered on Udemy by Dan Sullivan*
   
   
