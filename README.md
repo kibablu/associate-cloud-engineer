@@ -79,6 +79,8 @@ pvergadia](https://github.com/priyankavergadia)*
 * [Networking in the Google Cloud](https://www.qwiklabs.com/quests/31?catalog_rank=%7B%22rank%22%3A1%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&search_id=6078607)
 * [Cloud Engineering
 ](https://www.qwiklabs.com/quests/66?catalog_rank=%7B%22rank%22%3A1%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&search_id=5873277)
+* [Exploring APIs](https://www.qwiklabs.com/quests/54)
+* [Using the Cloud SDK Command Line](https://www.qwiklabs.com/quests/95)
 * [Kubernetes in Google Cloud
 ](https://www.qwiklabs.com/quests/29?catalog_rank=%7B%22rank%22%3A1%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&search_id=5873318)
 * [Create and Manage Cloud Resources](https://google.qwiklabs.com/quests/120?utm_source=google&utm_medium=website&utm_campaign=certpath-ace)
