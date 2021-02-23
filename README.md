@@ -5,23 +5,24 @@
 
 Resources preparing for Google Cloud Associate Cloud Engineer certification
 
-* [Official Exam Overview ](https://cloud.google.com/certification/cloud-engineer) *offered by Google*
-* [Let's talk with Dan Sullivan - author of the official Google Cloud Study Guides](https://www.youtube.com/watch?v=QOJGZqZdRS8) *offered on YouTube*
-* [How to Pass Google Cloud Certification Exams](https://www.udemy.com/course/how-to-pass-google-cloud-certification-exams/) *offered on Udemy by Dan Sullivan*
-* [Preparing for Google Cloud Associate Cloud Engineer Exam](https://www.youtube.com/watch?v=RbIbS0YMFs4) *offered on YouTube*
-* [Prepare and Pass Google Associate Cloud Engineer Certification- Full Exam Review](https://www.youtube.com/watch?v=WEzBOboD4BU) *offered on YouTube*
+| Resource        | Author           | Link |
+| ------------- |:-------------:| -----|
+| Official Exam Overview      | Google Cloud  | [:link:](https://cloud.google.com/certification/cloud-engineer) |
+| Let's talk with Dan Sullivan - author of the official Google Cloud Study Guides     | Dan Sullivan     |   [:link:](https://www.youtube.com/watch?v=QOJGZqZdRS8) |
+| How to Pass Google Cloud Certification Exams | Dan Sullivan       |    [:link:](https://www.udemy.com/course/how-to-pass-google-cloud-certification-exams/) |
+| Preparing for Google Cloud Associate Cloud Engineer Exam | Google Cloud       |    [:link:](https://www.youtube.com/watch?v=RbIbS0YMFs4) |
 
-## Online Training 
+## Moocs
 
-  * [Preparing for the Google Cloud Associate Cloud Engineer Exam](https://www.coursera.org/learn/preparing-cloud-associate-cloud-engineer-exam#syllabus) *offered on Coursera*
-  * [Intro to Google Cloud | For Student Developers](https://www.youtube.com/watch?v=5RGyepqiEGw) *offered on YouTube*
-  * [Introduction to Google Cloud Platform](https://acloud.guru/learn/gcp-101) *offered on A Cloud Guru*
-  * [Google Certified Associate Cloud Engineer 2020](https://acloudguru.com/course/google-certified-associate-cloud-engineer) *offered on A Cloud Guru*
-  * [Google Cloud](https://www.coursera.org/googlecloud) *offered on Coursera*
-  * [Google Cloud Certified Associate Cloud Engineer](https://www.pluralsight.com/paths/cloud-engineering-with-google-cloud) *offered on Pluralsight*
-  * [Google Associate Cloud Engineer: Get Certified 2020](https://www.udemy.com/course/google-certified-associate-cloud-engineer-2019-prep-course/learn/lecture/16602228#overview) *offered on Udemy by Dan Sullivan*
-  
-  
+Online training providing Google Cloud courses 
+
+| Course        | Platform          | Link  |
+| ------------- |:-------------:| ----- |
+| Cloud Engineering with Google Cloud Professional Certificate      | Cousera | [:link:](https://www.coursera.org/professional-certificates/cloud-engineering-gcp)|
+| Google Certified Associate Cloud Engineer 2020    | A Cloud Guru     |   [:link:](https://acloudguru.com/course/google-certified-associate-cloud-engineer) |
+| Google Cloud Certified Associate Cloud Engineer | Pluralsight      |    [:link:](https://www.pluralsight.com/paths/cloud-engineering-with-google-cloud) |
+| Google Associate Cloud Engineer: Get Certified 2020 | Udemy       |    [:link:](https://www.udemy.com/course/google-certified-associate-cloud-engineer-2019-prep-course/learn/lecture/16602228#overview) |
+ 
 ## Books / Documentation
 
   * [Get started with Google Cloud](https://cloud.google.com/docs) *Google Cloud Documentation*
