@@ -121,29 +121,3 @@ pvergadia](https://github.com/priyankavergadia)*
 * [From ALC to Google Certified Associate Cloud Engineer (ACE)](https://medium.com/@MercyMarkus/from-alc-to-google-certified-associate-cloud-engineer-b7e5707f9bf0) *by Mercy Markus*
 * [Yes, you can pass the Google Cloud Associate Engineer exam](https://dev.to/gelopfalcon/yes-you-can-pass-the-google-cloud-associate-engineer-exam-e20) *by Falcon*
 
-## Beginner Concepts 
-
-### What is Cloud Computing?
-
-* [Intro to Cloud Computing](https://www.udacity.com/course/intro-to-cloud-computing--ud080) *offered on Udacity*
-* [Cloud Computing - CS50's Computer Science for Business Professionals 2017](https://www.youtube.com/watch?v=ngK97cSXWoM) *offered on YouTube*
-* [Introduction to Cloud Computing](https://www.youtube.com/watch?v=QYzJl0Zrc4M) *offered on YouTube*
-* [Cloud Fundamentals](https://www.youtube.com/playlist?list=PLOspHqNVtKAC-_ZAGresP-i0okHe5FjcJ) *offered on YouTube*
-* [Cloud computing: A complete guide](https://www.ibm.com/cloud/learn/cloud-computing) *IBM Cloud*
-* [A beginner’s guide to the basics of what cloud computing is about](https://medium.com/scientya/a-beginners-guide-to-the-basics-of-what-cloud-computing-is-about-e8b3b7f25a30)   *by Yahya Mohamed Mao*
-* [An Introduction of Cloud Computing for Beginners](https://geekflare.com/cloud-computing-basics/)
-* [Public Cloud vs Private Cloud vs Hybrid Cloud](https://www.youtube.com/watch?v=3WIJ4axzFlU) *offered on YouTube*
-* [Pizza as a Service 2.0](https://medium.com/@pkerrison/pizza-as-a-service-2-0-5085cd4c365e) *by Paul Kerrison*
-
-
-### Terminologies 
-* [What is a Server? Servers vs Desktops Explained](https://www.youtube.com/watch?v=UjCDWCeHCzY) *offered on YouTube*
-* [Virtualization and Hypervisors](https://medium.com/@devanshagarwal121/virtualization-and-hypervisors-9c4c8f4ab27d) *by Devansh Agarwal*
-* [Virtualization Explained](https://www.youtube.com/watch?v=FZR0rG3HKIk) *offered on YouTube*
-* [What is a Virtual Private Cloud?](https://www.youtube.com/watch?v=NbkPRn1mqlU) *offered on YouTube*
-* [Containerization Explained](https://www.youtube.com/watch?v=0qotVMX-J5s) *offered on YouTube*
-* [Virtual Machines vs Docker Containers - Dive Into Docker](https://www.youtube.com/watch?v=TvnZTi_gaNc) *offered on YouTube*
-* [Introduction To Docker and Docker Containers](https://www.youtube.com/watch?v=JSLpG_spOBM) *offered on YouTube*
-* [Hello Whale: Containers != Virtual Machines](https://codefresh.io/docker-tutorial/hello-whale-containers-virtual-machines/)
-* [What is Docker?](https://opensource.com/resources/what-docker)
-* [Kubernetes 101: Pods, Nodes, Containers, and Clusters](https://medium.com/google-cloud/kubernetes-101-pods-nodes-containers-and-clusters-c1509e409e16)
