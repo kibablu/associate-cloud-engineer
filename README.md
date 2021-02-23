@@ -23,13 +23,14 @@ Online training providing Google Cloud courses
 | Google Cloud Certified Associate Cloud Engineer | Pluralsight      |    [:link:](https://www.pluralsight.com/paths/cloud-engineering-with-google-cloud) |
 | Google Associate Cloud Engineer: Get Certified 2020 | Udemy       |    [:link:](https://www.udemy.com/course/google-certified-associate-cloud-engineer-2019-prep-course/learn/lecture/16602228#overview) |
  
-## Books / Documentation
+## Books 
 
-  * [Get started with Google Cloud](https://cloud.google.com/docs) *Google Cloud Documentation*
-  * [Official Google Cloud Certified Associate Cloud Engineer Study Guide](https://www.amazon.co.uk/gp/product/1119564417/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1) *Book by Dan Sullivan*
-  * [Google Cloud Platform in Action](https://www.amazon.com/Google-Cloud-Platform-Action-Geewax/dp/1617293520) *Book by JJ Geewax*
-  
-  
+| Name        | Author          | Link |
+| ------------- |:-------------:| ----- |
+| Official Google Cloud Certified Associate Cloud Engineer Study Guide      | Dan Sullivan |  [:link:](https://www.amazon.com/Google-Cloud-Certified-Associate-Engineer/dp/1119564417/ref=pd_sbs_2?pd_rd_w=Cg7OZ&pf_rd_p=3ec6a47e-bf65-49f8-80f7-0d7c7c7ce2ca&pf_rd_r=9V8SSQZXJVMR7CKMVV04&pd_rd_r=05bff939-9f7f-49f8-9991-3bb6a8b22f61&pd_rd_wg=9UqL0&pd_rd_i=1119564417&psc=1) |
+| Google Cloud Platform in Action     | JJ Geewax     |   [:link:](https://www.amazon.com/Google-Cloud-Platform-Action-Geewax/dp/1617293520) |
+| Get started with Google Cloud | Google Cloud Documentation      |  [:link:](https://cloud.google.com/docs) |
+
   ## Video / Sessions
   
   * [Google Cloud Platform](https://www.youtube.com/user/googlecloudplatform) *offered on YouTube*
