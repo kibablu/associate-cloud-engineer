@@ -42,7 +42,7 @@ Online training providing Google Cloud courses
 | So I passed Google’s Associate Cloud Engineer Certification | Ivan Yudhi      |    [:link:](https://medium.com/@IvanYudhi/so-i-passed-googles-associate-cloud-engineer-certification-813bdf30d273) |
 | How I Cleared 3 Google Cloud Certifications in 3 Weeks | deepak verma     |    [:link:](https://medium.com/@yesdeepakverma/how-i-cleared-all-3-google-cloud-certifications-in-3-weeks-f5591aa22572) |
 | How I was able to clear my Google Cloud Engineer exam | Narayan Sharma      |    [:link:](https://medium.com/@narayansharma91/how-i-was-able-to-clear-my-google-cloud-engineer-exam-c8553835fbb0) |
-| How did I Pass Google Cloud Certified Associate Cloud Engineer Exam? |       |    [:link:](https://www.whizlabs.com/blog/google-cloud-certified-associate-cloud-engineer-exam-review/) |
+| How did I Pass Google Cloud Certified Associate Cloud Engineer Exam? |   Ritika Gupta    |    [:link:](https://www.whizlabs.com/blog/google-cloud-certified-associate-cloud-engineer-exam-review/) |
 | From ALC to Google Certified Associate Cloud Engineer (ACE) | Mercy Markus      |    [:link:](https://medium.com/@MercyMarkus/from-alc-to-google-certified-associate-cloud-engineer-b7e5707f9bf0) |
 | Yes, you can pass the Google Cloud Associate Engineer exam | Falcon      |    [:link:](https://dev.to/gelopfalcon/yes-you-can-pass-the-google-cloud-associate-engineer-exam-e20) |
 
