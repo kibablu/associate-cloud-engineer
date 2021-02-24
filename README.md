@@ -31,6 +31,20 @@ Online training providing Google Cloud courses
 | Google Cloud Platform in Action     | JJ Geewax     |   [:link:](https://www.amazon.com/Google-Cloud-Platform-Action-Geewax/dp/1617293520) |
 | Get started with Google Cloud | Google Cloud Documentation      |  [:link:](https://cloud.google.com/docs) |
 
+## Success stories
+
+| Article        | Author           | Link  |
+| ------------- |:-------------:| -----:|
+| Yes, you can pass the Google Cloud Associate Engineer exam      | Gerardo Lopez Falcón | [:link:](https://medium.com/google-developer-experts/yes-you-can-pass-the-google-cloud-associate-engineer-exam-e4468a7bcf7d) |
+| How to: Associate Cloud Engineer      | Serourb      |   [:link:](https://medium.com/@serourb/how-to-associate-cloud-engineer-41b8ae339e80) |
+| How I passed GCP Associate Cloud Engineer certification | Kannan Anandakrishnan      |    [:link:](https://medium.com/@kannan_ak/how-i-passed-gcp-associate-cloud-engineer-certification-86b11b333183) |
+
+
+
+
+
+
+
   ## Video / Sessions
   
   * [Google Cloud Platform](https://www.youtube.com/user/googlecloudplatform) *offered on YouTube*
@@ -108,9 +122,9 @@ pvergadia](https://github.com/priyankavergadia)*
 * [Google Cloud Associate Cloud Engineer Q/A](https://www.youtube.com/playlist?list=PLQMsfKRZZviRwqJwNmh1eAWnRMvlrk40x) *offered on YouTube*
 
 
-## Success stories
 
-* [Yes, you can pass the Google Cloud Associate Engineer exam](https://medium.com/google-developer-experts/yes-you-can-pass-the-google-cloud-associate-engineer-exam-e4468a7bcf7d) *by Gerardo Lopez Falcón*
+
+* [](https://medium.com/google-developer-experts/yes-you-can-pass-the-google-cloud-associate-engineer-exam-e4468a7bcf7d) *by *
 * [How to: Associate Cloud Engineer](https://medium.com/@serourb/how-to-associate-cloud-engineer-41b8ae339e80) *by Serourb*
 * [How I passed GCP Associate Cloud Engineer certification](https://medium.com/@kannan_ak/how-i-passed-gcp-associate-cloud-engineer-certification-86b11b333183) *by Kannan Anandakrishnan*
 * [Writing and Passing the Google Cloud Associate Engineer Certification](https://medium.com/@sathishvj/writing-and-passing-the-google-cloud-associate-engineer-certification-a60c2f6d99c2) *by sathish vj*
