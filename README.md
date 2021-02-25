@@ -48,21 +48,20 @@ Online training providing Google Cloud courses
 
 
 
+## Video / Sessions
+
+| Name        | Platform           | Link |
+| ------------- |:-------------:| -----:|
+| Google Cloud Tech      | YouTube | [:link:](https://www.youtube.com/user/googlecloudplatform) |
+| Cloudonair     | Training from Googlers      |   [:link:](https://cloudonair.withgoogle.com/)  |
+| The Cloud Girl | YouTube      |    [:link:](https://www.youtube.com/c/priyankavergadia/videos) |
+| Learn GCP with Mahesh | YouTube      |    [:link:](https://www.youtube.com/channel/UCL8vwy2jhEtQrC-Rx6qzCZg/videos) |
+| Cloud Advocate | YouTube      |    [:link:](https://www.youtube.com/channel/UCjfE5EmNU1kyf1wwrtYlnGQ) |
+| AwesomeGCP | YouTube      |    [:link:](https://www.youtube.com/channel/UCIGDDqu5DzlaaC4XzXj_4-A) |
+| GCP for Dummies | YouTube      |    [:link:](https://www.youtube.com/channel/UCLqm0JFu9oqh_PccDg3mU0g) |
 
 
 
-
-  ## Video / Sessions
-  
-  * [Google Cloud Platform](https://www.youtube.com/user/googlecloudplatform) *offered on YouTube*
-  * [Cloudonair](https://cloudonair.withgoogle.com/) *Training from Googlers*
-  * [The Cloud Girl](https://www.youtube.com/c/priyankavergadia/videos) *offered on YouTube*
-  * [Linux Academy](https://www.youtube.com/user/pineheadtv/search?query=cloud) *offered on YouTube*
-  * [Learn GCP with Mahesh](https://www.youtube.com/channel/UCL8vwy2jhEtQrC-Rx6qzCZg/videos) *offered on YouTube*
-  * [Cloud Advocate](https://www.youtube.com/channel/UCjfE5EmNU1kyf1wwrtYlnGQ) *offered on YouTube*
-  * [AwesomeGCP](https://www.youtube.com/channel/UCIGDDqu5DzlaaC4XzXj_4-A) *offered on YouTube*
-  * [GCP for Dummies](https://www.youtube.com/channel/UCLqm0JFu9oqh_PccDg3mU0g) *offered on YouTube*
-  
   
   ## Notes
   
