@@ -61,22 +61,21 @@ Online training providing Google Cloud courses
 | GCP for Dummies | YouTube      |    [:link:](https://www.youtube.com/channel/UCLqm0JFu9oqh_PccDg3mU0g) |
 
 
-
+## Notes
   
-  ## Notes
+| Name        | Author           | Link  |
+| ------------- |:-------------:| -----:|
+| awesome-gcp-certifications     | ddneves | [:link:](https://github.com/ddneves/awesome-gcp-certifications#Google-Cloud---Associate-Cloud-Engineer) |
+| GCPSketchnote      | pvergadia      |   [:link:](https://github.com/priyankavergadia/GCPSketchnote?_lrsc=cabfae46-9c53-4921-86a2-0d2624c0cb78)  |
+| awesome-gcp-certifications | sathishvj      |    [:link:](https://github.com/sathishvj/awesome-gcp-certifications/blob/master/associate-cloud-engineer.md) |
+| gcp-learning | truar      |    [:link:](https://github.com/truar/gcp-learning) |
+| GCP-CA-Notes | dmunn      |    [:link:](https://gist.github.com/dmunn/9874418f620b8aaf91d12507a91563ad) |
+| google-cloud-4-words | gregsramblings      |    [:link:](https://github.com/gregsramblings/google-cloud-4-words) |
+| GCP Associate Cloud Engineer Deep Dive notes. Preparing for the exam |       |    [:link:](https://myblockchainexperts.org/2019/09/27/gcp-associate-cloud-engineer-deep-dive-notes-preparing-for-the-exam/) |
+| Link topics to the official Exam Study Guide |       |    [:link:](https://docs.google.com/document/d/1u6pXBiGMYj7ZLBN21x6jap11rG6gWk7n210hNnUzrkI/edit) |
+| ACE Study Topics & Models | Blake Rogers |    [:link:](https://docs.google.com/document/d/1if7Bbzrui1r-RaPO8ikwvcyg7Cv9sIFFZuE_fZP-9xE/edit#heading=h.n2bowj9d4vqj) |
   
-  * [awesome-gcp-certifications](https://github.com/ddneves/awesome-gcp-certifications#Google-Cloud---Associate-Cloud-Engineer) *Repo by [ddneves](https://github.com/ddneves)*
-  * [GCPSketchnote](https://github.com/priyankavergadia/GCPSketchnote?_lrsc=cabfae46-9c53-4921-86a2-0d2624c0cb78) *Repo by [
-pvergadia](https://github.com/priyankavergadia)*
-  * [gcp-learning](https://github.com/truar/gcp-learning) *Repo by [truar](https://github.com/truar)*
-  * [GCP-CA-Notes](https://gist.github.com/dmunn/9874418f620b8aaf91d12507a91563ad) *Repo by [dmunn](https://gist.github.com/dmunn)*
-  * [google-cloud-4-words](https://github.com/gregsramblings/google-cloud-4-words) *Repo by [gregsramblings](https://github.com/gregsramblings)*
-  * [awesome-gcp-certifications](https://github.com/sathishvj/awesome-gcp-certifications/blob/master/associate-cloud-engineer.md) *Repo by [sathishvj](https://github.com/sathishvj)*
-  * [GCP Certification Series, 1.1](https://medium.com/@prashantapaudel/gcp-certification-series-1-1-15cf8117f610) *by Prashanta Paudel*
-  * [GCP Associate Cloud Engineer Deep Dive notes. Preparing for the exam](https://myblockchainexperts.org/2019/09/27/gcp-associate-cloud-engineer-deep-dive-notes-preparing-for-the-exam/)
-* [Link topics to the official Exam Study Guide](https://docs.google.com/document/d/1u6pXBiGMYj7ZLBN21x6jap11rG6gWk7n210hNnUzrkI/edit) *offered on Google Docs*
-* [ACE Study Topics & Models](https://docs.google.com/document/d/1if7Bbzrui1r-RaPO8ikwvcyg7Cv9sIFFZuE_fZP-9xE/edit#heading=h.n2bowj9d4vqj) *offered on Google Docs*
-
+  
 
 ## GCP Cheatsheet
 
