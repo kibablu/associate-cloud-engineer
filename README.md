@@ -90,36 +90,33 @@ Online training providing Google Cloud courses
 
 
 
-
-
-
-* []() *by [](https://itnext.io/@weibeld)*
-* []() *official docs*
-
  ## Qwiklabs / Hands on Training 
  
- 
- * [A list of qwiklabs found on Pluralsight's Google Path](https://github.com/kibablu/PluralsightQwikLabs)
- * [Complete skill badges relevant to your certification](https://go.qwiklabs.com/certification)
- * [Introduction to Qwiklabs and Google Cloud Platform](https://www.youtube.com/watch?v=SXNcIDviJsM) *offered on Youtube*
-* [Google Cloud Essentials](https://www.qwiklabs.com/quests/23?catalog_rank=%7B%22rank%22%3A1%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&search_id=5873288)
- * [Baseline: Infrastructure
-](https://www.qwiklabs.com/quests/33?catalog_rank=%7B%22rank%22%3A1%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&search_id=5873251)
-* [Ensure Access & Identity in Google Cloud](https://www.qwiklabs.com/quests/150)
-* [Networking in the Google Cloud](https://www.qwiklabs.com/quests/31?catalog_rank=%7B%22rank%22%3A1%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&search_id=6078607)
-* [Cloud Engineering
-](https://www.qwiklabs.com/quests/66?catalog_rank=%7B%22rank%22%3A1%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&search_id=5873277)
-* [Exploring APIs](https://www.qwiklabs.com/quests/54)
-* [Using the Cloud SDK Command Line](https://www.qwiklabs.com/quests/95)
-* [Kubernetes in Google Cloud
-](https://www.qwiklabs.com/quests/29?catalog_rank=%7B%22rank%22%3A1%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&search_id=5873318)
-* [Create and Manage Cloud Resources](https://google.qwiklabs.com/quests/120?utm_source=google&utm_medium=website&utm_campaign=certpath-ace)
-* [Perform Foundational Infrastructure Tasks in Google Cloud](https://google.qwiklabs.com/quests/118?utm_source=google&utm_medium=website&utm_campaign=certpath-ace)
-* [Set Up and Configure a Cloud Environment in Google Cloud](https://google.qwiklabs.com/quests/119?utm_source=google&utm_medium=website&utm_campaign=certpath-ace)
-* [Build and Secure Networks in Google Cloud](https://google.qwiklabs.com/quests/128?utm_source=google&utm_medium=website&utm_campaign=certpath-ace)
-* [Deploy to Kubernetes in Google Cloud](https://google.qwiklabs.com/quests/116?utm_source=google&utm_medium=website&utm_campaign=certpath-ace)
-* [Security & Identity Fundamentals](https://www.qwiklabs.com/quests/40)
-* [Hello Cloud Run](https://www.qwiklabs.com/focuses/5162?catalog_rank=%7B%22rank%22%3A1%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=6078620)
+ | Quest/Lab        | Link         |
+| ------------- |:-------------:| 
+| A list of qwiklabs found on Pluralsight's Google Path     | [:link:](https://github.com/kibablu/PluralsightQwikLabs) | 
+| Introduction to Qwiklabs and Google Cloud Platform      | [:link:](https://www.youtube.com/watch?v=SXNcIDviJsM)     |   
+| Google Cloud Essentials | [:link:](https://www.qwiklabs.com/quests/23?catalog_rank=%7B%22rank%22%3A1%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&search_id=5873288)      |  
+| Baseline: Infrastructure     | [:link:](https://www.qwiklabs.com/quests/33?catalog_rank=%7B%22rank%22%3A1%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&search_id=5873251) | 
+| Ensure Access & Identity in Google Cloud      | [:link:](https://www.qwiklabs.com/quests/150)     |   
+| Networking in the Google Cloud     | [:link:](https://www.qwiklabs.com/quests/31?catalog_rank=%7B%22rank%22%3A1%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&search_id=6078607) | 
+| Cloud Engineering      | [:link:](https://www.qwiklabs.com/quests/66?catalog_rank=%7B%22rank%22%3A1%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&search_id=5873277)     |   
+| Exploring APIs     | [:link:](https://www.qwiklabs.com/quests/54) | 
+| Using the Cloud SDK Command Line      | [:link:](https://www.qwiklabs.com/quests/95)     |   
+| Kubernetes in Google Cloud     | [:link:](https://www.qwiklabs.com/quests/29?catalog_rank=%7B%22rank%22%3A1%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&search_id=5873318) | 
+| Create and Manage Cloud Resources      | [:link:](https://google.qwiklabs.com/quests/120?utm_source=google&utm_medium=website&utm_campaign=certpath-ace)     |   
+| Perform Foundational Infrastructure Tasks in Google Cloud     | [:link:](https://google.qwiklabs.com/quests/118?utm_source=google&utm_medium=website&utm_campaign=certpath-ace) | 
+| Set Up and Configure a Cloud Environment in Google Cloud      | [:link:](https://google.qwiklabs.com/quests/119?utm_source=google&utm_medium=website&utm_campaign=certpath-ace)     |   
+| Build and Secure Networks in Google Cloud  |    [:link:](https://google.qwiklabs.com/quests/128?utm_source=google&utm_medium=website&utm_campaign=certpath-ace) |
+| Deploy to Kubernetes in Google Cloud  |    [:link:](https://google.qwiklabs.com/quests/116?utm_source=google&utm_medium=website&utm_campaign=certpath-ace) |
+| Security & Identity Fundamentals  |    [:link:](https://www.qwiklabs.com/quests/40) |
+| Hello Cloud Run  |    [:link:](https://www.qwiklabs.com/focuses/5162?catalog_rank=%7B%22rank%22%3A1%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=6078620) |
+
+
+
+
+
+
 
 
 ##  Practice Exam / Test
