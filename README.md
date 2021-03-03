@@ -77,15 +77,24 @@ Online training providing Google Cloud courses
   
   
 
-## GCP Cheatsheet
+## GCP Commands Cheatsheet
 
-* [GCP cheatsheet](https://cloud.google.com/blog/products/management-tools/new-gcloud-cheat-sheet-available) *offered by Google*
-* [GCP cheatsheet
-](https://cheatsheet.dennyzhang.com/cheatsheet-gcp-a4) *by [dennyzhang](https://github.com/dennyzhang)*
-* [GCP cheatsheet
-](https://gist.github.com/pydevops/cffbd3c694d599c6ca18342d3625af97#012-app-engine) *by [pydevops](https://gist.github.com/pydevops)*
-* [GCP command-line cheatsheet](https://itnext.io/gcp-command-line-cheatsheet-5e4434ca2c84#d8b9) *by [Daniel Weibel](https://itnext.io/@weibeld)*
-* [gcloud sdk](https://cloud.google.com/sdk/gcloud/reference) *official docs*
+
+| Name        | Author          | Link  |
+| ------------- |:-------------:| -----:|
+| GCP cheatsheet      | Google Cloud | [:link:](https://cloud.google.com/blog/products/management-tools/new-gcloud-cheat-sheet-available) |
+| GCP cheatsheet     | dennyzhang      |   [:link:](https://cheatsheet.dennyzhang.com/cheatsheet-gcp-a4) |
+| GCP cheatsheet | pydevops      |    [:link:](https://gist.github.com/pydevops/cffbd3c694d599c6ca18342d3625af97) |
+| GCP command-line cheatsheet | Daniel Weibel      |    [:link:](https://itnext.io/gcp-command-line-cheatsheet-5e4434ca2c84#d8b9) |
+| gcloud sdk | Official gcp-sdk docs      |    [:link:](https://cloud.google.com/sdk/gcloud/reference) |
+
+
+
+
+
+
+* []() *by [](https://itnext.io/@weibeld)*
+* []() *official docs*
 
  ## Qwiklabs / Hands on Training 
  
