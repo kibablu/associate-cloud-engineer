@@ -130,8 +130,6 @@ Online training providing Google Cloud courses
 | ------------- |:-------------:| -----:|
 | Associate Cloud Engineer Practice Exam      | Google Cloud | [:link:](https://docs.google.com/forms/d/e/1FAIpQLSfexWKtXT2OSFJ-obA4iT3GmzgiOCGvjrT9OfxilWC1yPtmfQ/viewform)  |
 | Google Cloud Associate Cloud Engineer Practice Exams      | Dan Sullivan      | [:link:](https://www.udemy.com/course/google-cloud-associate-cloud-engineer-practice-examspractice-exams/) |
-| Google Cloud Certified Associate Cloud Engineer | christopher_gang     | [:link:](https://www.udemy.com/course/google-cloud-associate-cloud-engineer-practice-examspractice-exams/)|
-| GCP Cloud Associate Exam     | casey_o_kane      | [:link:](https://quizlet.com/363585408/gcp-cloud-associate-exam-flash-cards/) |
 | Google Cloud Associate Cloud Engineer Q/A | AwesomeGCP      | [:link:](https://www.youtube.com/playlist?list=PLQMsfKRZZviRwqJwNmh1eAWnRMvlrk40x) |
 
 
